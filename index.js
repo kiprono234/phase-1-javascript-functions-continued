@@ -12,9 +12,6 @@ function wrapAdjective(wrapper = '*'){
     }
     wrapAdjective(adjective)('hardworker');
 }
-module.exports = {
-    saturdayFun,
-    mondayWork,
-    wrapAdjective
-};
+
+
 
